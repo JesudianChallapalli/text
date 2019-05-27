@@ -1,2 +1,2 @@
 # text
-text repo git commands
+text repo git commands are updated on May 27
